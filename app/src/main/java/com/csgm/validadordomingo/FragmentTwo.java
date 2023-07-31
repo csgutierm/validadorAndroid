@@ -37,7 +37,7 @@ public class FragmentTwo extends Fragment {
         }
 
         backButton.setOnClickListener(v -> {
-            // Regresar al Fragmento 1
+            // Regresar al Fragmento 1 -
             requireActivity().getSupportFragmentManager().popBackStack();
         });
 
