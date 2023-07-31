@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Validador de contraseñas</string>
+    <string name="hint">Escribe una contraseña</string>
+    <string name="buttonNext">Validar Contraseña</string>
+    <string name="text_second_fragment">Recuerda que para que la contraseña sea segura debe cumplir con estas características:\n\n
+    &gt;Al menos 5 caracteres.\n
+    &gt;Al menos 1 letra mayúscula\n\n
+    Otras características que hacen la contraseña más segura:\n
+    &gt;Al menos 1 carácter especial (como % $)\n
+    &gt;Al menos 1 número</string>
+    <string name="buttonBack">Regresar</string>
+    <string name="contraseñaValida">Contraseña válida: </string>
+</resources>
